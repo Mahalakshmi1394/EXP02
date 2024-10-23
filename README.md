@@ -1,4 +1,4 @@
-# EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
+![wave](https://github.com/user-attachments/assets/4f3c08f5-c5da-43e6-aeec-3647e697fe94)# EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
 Experiment -2 
 Aim:
 To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools, analyse its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
@@ -74,8 +74,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](![vvlso](https://github.com/user-attachments/assets/f8886760-2044-417c-a1d7-64adeb7644ed)
-)
+ ![image]![vvlso](https://github.com/user-attachments/assets/f8886760-2044-417c-a1d7-64adeb7644ed)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -92,9 +92,10 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
 
- ![image](![vvlso](https://github.com/user-attachments/assets/4b592d56-2c5f-499b-93e9-39cfc162356e)
-)
 
+
+
+![wave](https://github.com/user-attachments/assets/57343487-0e20-41f3-8bb4-624909b779a6)
 
 
  
